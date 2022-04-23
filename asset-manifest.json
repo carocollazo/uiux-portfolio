@@ -1,7 +1,7 @@
 {
   "main.css": "/uiux-portfolio/static/css/main.9c890dba.chunk.css",
-  "main.js": "/uiux-portfolio/static/js/main.f4aeabc3.chunk.js",
-  "main.js.map": "/uiux-portfolio/static/js/main.f4aeabc3.chunk.js.map",
+  "main.js": "/uiux-portfolio/static/js/main.a606abad.chunk.js",
+  "main.js.map": "/uiux-portfolio/static/js/main.a606abad.chunk.js.map",
   "static/js/1.91d1d4c5.chunk.js": "/uiux-portfolio/static/js/1.91d1d4c5.chunk.js",
   "static/js/1.91d1d4c5.chunk.js.map": "/uiux-portfolio/static/js/1.91d1d4c5.chunk.js.map",
   "static/js/2.3a48f6dd.chunk.js": "/uiux-portfolio/static/js/2.3a48f6dd.chunk.js",
@@ -15,6 +15,6 @@
   "static/media/ss4.jpg": "/uiux-portfolio/static/media/ss4.83ff1805.jpg",
   "static/css/main.9c890dba.chunk.css.map": "/uiux-portfolio/static/css/main.9c890dba.chunk.css.map",
   "index.html": "/uiux-portfolio/index.html",
-  "precache-manifest.ebb22be171be097c122fd2189baa55b5.js": "/uiux-portfolio/precache-manifest.ebb22be171be097c122fd2189baa55b5.js",
+  "precache-manifest.a570851f3c8fc50f33246c72c236d485.js": "/uiux-portfolio/precache-manifest.a570851f3c8fc50f33246c72c236d485.js",
   "service-worker.js": "/uiux-portfolio/service-worker.js"
 }
