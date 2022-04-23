@@ -1,4 +1,5 @@
 {
+  "homepage": "http://carocollazo.github.io/uiux-portfolio",
   "name": "dev",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +18,6 @@
     "react-scripts": "^2.1.3",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "http://carocollazo.github.io/uiux-portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
