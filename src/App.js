@@ -104,7 +104,7 @@ export default class App extends Component {
             </div>
           </a>
 
-          <a href="https://uiux-dev.herokuapp.com/" className="work-item">
+          <a href="https://carocollazo.github.io/uiux-development/" className="work-item">
             <div className="image-container">
               <img
                 src={ss2}
